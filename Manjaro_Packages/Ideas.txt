@@ -1,0 +1,1 @@
+If install_packages.sh fails to install a particular package then the script should skip it and then ouput the name of that package into a text file so that a single text file will have names of all the failed installation packages.
