@@ -1,0 +1,10 @@
+com.github.taiko2k.tauonmb
+com.github.tchx84.Flatseal
+com.jetpackduba.Gitnuro
+com.obsproject.Studio
+com.spotify.Client
+io.github.prateekmedia.appimagepool
+io.gitlab.theevilskeleton.Upscaler
+net.cozic.joplin_desktop
+net.sapples.LiveCaptions
+org.onlyoffice.desktopeditors

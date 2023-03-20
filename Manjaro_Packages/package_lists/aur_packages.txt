@@ -1,0 +1,6 @@
+gespeaker
+manjaro-documentation-en
+manjaro-firmware
+megasync
+spotiflyer-bin
+vnstat-client
